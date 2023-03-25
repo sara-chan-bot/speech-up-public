@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/speech-up-public/static/css/main.14d1b14f.css",
-    "main.js": "/speech-up-public/static/js/main.456b99bf.js",
+    "main.js": "/speech-up-public/static/js/main.c7c9c904.js",
     "static/js/787.4845aa39.chunk.js": "/speech-up-public/static/js/787.4845aa39.chunk.js",
     "index.html": "/speech-up-public/index.html",
     "main.14d1b14f.css.map": "/speech-up-public/static/css/main.14d1b14f.css.map",
-    "main.456b99bf.js.map": "/speech-up-public/static/js/main.456b99bf.js.map",
+    "main.c7c9c904.js.map": "/speech-up-public/static/js/main.c7c9c904.js.map",
     "787.4845aa39.chunk.js.map": "/speech-up-public/static/js/787.4845aa39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14d1b14f.css",
-    "static/js/main.456b99bf.js"
+    "static/js/main.c7c9c904.js"
   ]
 }
