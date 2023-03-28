@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/speech-up-public/static/css/main.dd47c7c6.css",
-    "main.js": "/speech-up-public/static/js/main.e51f5172.js",
-    "static/js/787.4845aa39.chunk.js": "/speech-up-public/static/js/787.4845aa39.chunk.js",
-    "index.html": "/speech-up-public/index.html",
-    "main.dd47c7c6.css.map": "/speech-up-public/static/css/main.dd47c7c6.css.map",
-    "main.e51f5172.js.map": "/speech-up-public/static/js/main.e51f5172.js.map",
-    "787.4845aa39.chunk.js.map": "/speech-up-public/static/js/787.4845aa39.chunk.js.map"
+    "main.css": "/speechup/static/css/main.e254b60d.css",
+    "main.js": "/speechup/static/js/main.6a370186.js",
+    "static/js/787.4845aa39.chunk.js": "/speechup/static/js/787.4845aa39.chunk.js",
+    "index.html": "/speechup/index.html",
+    "main.e254b60d.css.map": "/speechup/static/css/main.e254b60d.css.map",
+    "main.6a370186.js.map": "/speechup/static/js/main.6a370186.js.map",
+    "787.4845aa39.chunk.js.map": "/speechup/static/js/787.4845aa39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd47c7c6.css",
-    "static/js/main.e51f5172.js"
+    "static/css/main.e254b60d.css",
+    "static/js/main.6a370186.js"
   ]
 }
